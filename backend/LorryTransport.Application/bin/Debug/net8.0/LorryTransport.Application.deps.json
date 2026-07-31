@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LorryTransport.Application/1.0.0": {
+        "dependencies": {
+          "LorryTransport.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LorryTransport.Application.dll": {}
+        }
+      },
+      "LorryTransport.Domain/1.0.0": {
+        "runtime": {
+          "LorryTransport.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LorryTransport.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LorryTransport.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

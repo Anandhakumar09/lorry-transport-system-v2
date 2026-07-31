@@ -1,0 +1,15 @@
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Application\bin\Debug\net8.0\LorryTransport.Application.deps.json
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Application\bin\Debug\net8.0\LorryTransport.Application.dll
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Application\bin\Debug\net8.0\LorryTransport.Application.pdb
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Application\bin\Debug\net8.0\LorryTransport.Domain.dll
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Application\bin\Debug\net8.0\LorryTransport.Domain.pdb
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Application\obj\Debug\net8.0\LorryTransport.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Application\obj\Debug\net8.0\LorryTransport.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Application\obj\Debug\net8.0\LorryTransport.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Application\obj\Debug\net8.0\LorryTransport.Application.AssemblyInfo.cs
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Application\obj\Debug\net8.0\LorryTransport.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Application\obj\Debug\net8.0\LorryTra.98796F82.Up2Date
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Application\obj\Debug\net8.0\LorryTransport.Application.dll
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Application\obj\Debug\net8.0\refint\LorryTransport.Application.dll
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Application\obj\Debug\net8.0\LorryTransport.Application.pdb
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Application\obj\Debug\net8.0\ref\LorryTransport.Application.dll

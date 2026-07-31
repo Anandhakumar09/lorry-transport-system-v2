@@ -1,0 +1,44 @@
+namespace LorryTransport.Domain.Entities
+{
+    public class LoadEntry
+    {
+        public int Id { get; set; }
+        public DateTime Date { get; set; }
+        public string FromLocation { get; set; } = string.Empty;
+        public string ToLocation { get; set; } = string.Empty;
+
+        public int CustomerId { get; set; }
+        public Customer? Customer { get; set; }
+
+        public string MaterialName { get; set; } = string.Empty;
+
+        public int VehicleId { get; set; }
+        public Vehicle? Vehicle { get; set; }
+
+        public int DriverId { get; set; }
+        public Driver? Driver { get; set; }
+
+        public decimal AdvanceAmount { get; set; }
+        public decimal LoadingCharge { get; set; }
+        public decimal RatePerTon { get; set; }
+        public decimal TotalTons { get; set; }
+
+        // Auto calculated: RatePerTon * TotalTons
+        public decimal FreightAmount { get; set; }
+
+        public decimal DieselAmount { get; set; }
+        public decimal DriverSalary { get; set; }
+        public decimal CleanerSalary { get; set; }
+        public decimal Commission { get; set; }
+        public decimal OtherExpenses { get; set; }
+
+        // Auto calculated
+        public decimal ExpenseTotal { get; set; }
+        public decimal Profit { get; set; }
+        public decimal DriverBalance { get; set; }
+
+        public string? Notes { get; set; }
+
+        
+    }
+}

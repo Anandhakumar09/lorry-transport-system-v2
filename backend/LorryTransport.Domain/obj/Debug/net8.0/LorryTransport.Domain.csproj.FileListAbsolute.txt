@@ -1,0 +1,11 @@
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Domain\bin\Debug\net8.0\LorryTransport.Domain.deps.json
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Domain\bin\Debug\net8.0\LorryTransport.Domain.dll
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Domain\bin\Debug\net8.0\LorryTransport.Domain.pdb
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Domain\obj\Debug\net8.0\LorryTransport.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Domain\obj\Debug\net8.0\LorryTransport.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Domain\obj\Debug\net8.0\LorryTransport.Domain.AssemblyInfo.cs
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Domain\obj\Debug\net8.0\LorryTransport.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Domain\obj\Debug\net8.0\LorryTransport.Domain.dll
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Domain\obj\Debug\net8.0\refint\LorryTransport.Domain.dll
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Domain\obj\Debug\net8.0\LorryTransport.Domain.pdb
+C:\Users\DELL\Downloads\LorryTransportSystem_Fixed\backend\LorryTransport.Domain\obj\Debug\net8.0\ref\LorryTransport.Domain.dll
