@@ -1,0 +1,22 @@
+databases:
+  - name: lorry-transport-db
+    plan: free
+    databaseName: lorrytransportdb
+    user: lorryuser
+
+services:
+  - type: web
+    name: lorry-transport-api
+    runtime: docker
+    dockerfilePath: ./backend/Dockerfile
+    dockerContext: ./backend
+    plan: free
+    envVars:
+      - key: ConnectionStrings__DefaultConnection
+        fromDatabase:
+          name: lorry-transport-db
+          property: connectionString
+      - key: FRONTEND_URL
+        sync: false
+      - key: ASPNETCORE_ENVIRONMENT
+        value: Production
